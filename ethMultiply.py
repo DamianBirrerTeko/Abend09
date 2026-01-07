@@ -6,3 +6,4 @@ def ethiopian_multiply(a, b):
         a = a / 2      # GANZZAHLIGE Division
         b = b * 2
     return result
+# Hendrik was here
